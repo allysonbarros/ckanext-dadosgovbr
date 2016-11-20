@@ -5,7 +5,7 @@ Tema para o CKAN utilizado no portal dados.gov.br.
 Primeiro, instale a extensão do CKAN dadosgovbr em seu ambiente virtual
 Python.  Certifque-se que o seu virtualenv está ativo e faça:
 
-    $ pip install -e 'git+git@github.com:dadosgovbr/ckanext-dados.gov.br.git#egg=ckanext-dadosgovbr'
+    $ pip install -e 'git+https://github.com/allysonbarros/ckanext-dadosgovbr.git#egg=ckanext-dadosgovbr'
 
 Então faça `cd` para o diretório `ckanext-dadosgovbr` e execute:
 
